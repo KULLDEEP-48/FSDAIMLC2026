@@ -17,7 +17,8 @@ function ICard({data}) {
     <h3>RollNo:{data.roll}</h3>
     <h3>Name:{data.name}</h3>
     <h3>Branch:{data.branch}</h3>
-    <img src={data.pic} height={'200px'} width={'250px'} style={{borderRadius:'50%'}}></img></div>
+    <img src={data.pic} height={'200px'} width={'250px'} style={{borderRadius:'50%'}}></img>
+    </div>
   
   )
 }
