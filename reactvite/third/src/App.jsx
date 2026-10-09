@@ -4,12 +4,13 @@
 // import viteLogo from './assets/vite.svg'
 import './App.css'
 // import StateHandling from './component/StateHandling'
-import Imagemanipulation from './component/Imagemanipulation'
+// import Imagemanipulation from './component/Imagemanipulation'
+import SampleUseEffect from './component/SampleUseEffect'
 
 function App() {
   return (
     <div>
-      <Imagemanipulation></Imagemanipulation>
+      <SampleUseEffect></SampleUseEffect>
     </div>
   )
 }
